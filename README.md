@@ -1,15 +1,15 @@
-# 🎬 Netflix Insights Dashboard
+#  Netflix Insights Dashboard
 
 An interactive Power BI dashboard exploring **Netflix Movies and TV Shows**.  
 It visualizes trends in **genres, ratings, release years, and countries**, offering insights into Netflix’s global content distribution and evolution.
 
 ---
 
-## 📊 Dashboard Highlights
-- 📺 Movies vs TV Shows comparison  
-- 🌍 Country-wise content production  
-- 🎭 Genre and rating analysis  
-- 📅 Year-wise release trends  
+##  Dashboard Highlights
+-  Movies vs TV Shows comparison  
+-  Country-wise content production  
+-  Genre and rating analysis  
+-  Year-wise release trends  
 -  Interactive filters for type, genre, and country  
 
 ---
